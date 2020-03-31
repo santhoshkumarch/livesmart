@@ -13,7 +13,7 @@
     "fs": "latest"
   },
   "engines": {
-    "node": "4.0.0"
+    "node": "12.16.1"
   },
   "keywords": [
     "node",
